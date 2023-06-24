@@ -6,7 +6,7 @@
 * La légende raconte que il ya quelques années Dihia a séché les cours pendant 3 mois et depuis on appelle cela les vacances d'été.
 * La légende raconte que Bell a inventé le téléphone, il a trouvé 2 appels manqués de Dihia.
 * La légende raconte que tous les matins c'est Dihia qui réveille son alarme.
-* La légende raconte que Dihia n'a pas besoin de se faire recommender, c'est elle qui recommande.
+* La légende raconte que Dihia n'a pas besoin de se faire recommander, c'est elle qui recommande.
 * La légende raconte que quand Dihia va utilise Google Chrome, c'est elle qui ditribue les cookies.
 * La légende raconte que quand Dihia installe Windows, c'est Microsoft qui accepte ses conditions d'utilisation.
 * La légende raconte que Dihia n'a pas peur des rayons du soleil, c'est le soleil qui a peur de Dihia.
