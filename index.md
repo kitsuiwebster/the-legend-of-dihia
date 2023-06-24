@@ -1,3 +1,9 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
 # La légende de Dihia
 
 * La légende raconte que quand Dihia était petite, c'est elle qui racontait des histoires à ses parents.
