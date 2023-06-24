@@ -1,9 +1,9 @@
 pages:
-  image: ruby:2.7
+  stage: deploy
   script:
-  - gem update --system
-  - gem install jekyll
-  - jekyll build -d public/
+  - mkdir .public
+  - cp -r * .public
+  - mv .public public
   artifacts:
     paths:
     - public
