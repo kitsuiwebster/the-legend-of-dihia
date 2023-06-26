@@ -1,0 +1,59 @@
+# yersinia v0.8.2 started in alakazam on Mon Jun 26 11:56:00 2023
+
+Network Interface wlp43s0
+
+ wlp43s0 iflinkname EN10MB
+ wlp43s0 iflinkdesc Ethernet
+ wlp43s0 MAC = 3c21.9cf2.a2ba
+Network Interface lo
+
+ lo iflinkname EN10MB
+ lo iflinkdesc Ethernet
+ lo MAC = 0000.0000.0000
+Network Interface enp45s0
+
+ enp45s0 iflinkname EN10MB
+ enp45s0 iflinkdesc Ethernet
+ enp45s0 MAC = d493.901b.5606
+Network Interface enx34298f770af3
+
+ enx34298f770af3 iflinkname EN10MB
+ enx34298f770af3 iflinkdesc Ethernet
+ enx34298f770af3 MAC = 3429.8f77.0af3
+Network Interface virbr0
+
+ virbr0 iflinkname EN10MB
+ virbr0 iflinkdesc Ethernet
+ virbr0 MAC = 5254.008c.1c56
+Network Interface br-92ca05267dc9
+
+ br-92ca05267dc9 iflinkname EN10MB
+ br-92ca05267dc9 iflinkdesc Ethernet
+ br-92ca05267dc9 MAC = 0242.2e28.0788
+Network Interface docker0
+
+ docker0 iflinkname EN10MB
+ docker0 iflinkdesc Ethernet
+ docker0 MAC = 0242.2d5c.7e16
+Network Interface bluetooth0
+Network Interface bluetooth-monitor
+pcap_open_live failed: bluetooth-monito: No such device exists (No such device exists)
+Network Interface nflog
+Network Interface nfqueue
+Network Interface dbus-system
+Network Interface dbus-session
+pcap_open_live failed: dbus-session: Failed to get session bus: /usr/bin/dbus-launch terminated abnormally with the following error: Failed to waitpid() for babysitter intermediate process: No child processes
+
+ g00dbye function called from 2A68A380
+
+ th_uptime thread = 29E85640
+
+ ints_destroy started...
+ ints_destroy killing pcap_listener(711484992)...
+
+ thread_destroy 2A68A380 destroying 2A686640...
+ thread_destroy 2A68A380 after PTHREAD_JOIN 2A686640...
+ ints_destroy finished...
+ Showing MOTD..
+# yersinia finished on Mon Jun 26 11:56:01 2023
+
